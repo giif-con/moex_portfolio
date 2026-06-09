@@ -69,6 +69,9 @@ PythonProject/
 ├── main.py                     # Главный скрипт для запуска (CLI и графики)
 ├── README.md
 └── requirements.txt
+
+```
+
 ## 4. Основные модули
 
 ### `data_loader.py`
